@@ -1,0 +1,11 @@
+langkah git bash
+
+1. git init
+2. git config --global user.email "you@example.com"
+   git config --global user.name "Your Name"
+3. git remote add origin (linknya)
+4. git remote -v
+
+5. git add .
+6. git commit -m "name"
+7. git push origin master
